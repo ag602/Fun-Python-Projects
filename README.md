@@ -1,4 +1,6 @@
-# Fun-and-Tricky-Python-Projects
+# Fun-and-Tricky-Python-Projects 
+PROJECT-1
+
 IIT(BHU) Completed it's 100 years in 2019. I was lucky enough to be the Technical Head of this event!
 The event was a huge success with a total guest count of around 600, thanks to the 40-member team of Student Alumni Interaction Cell(SAIC), who spent sleepless nights to take care of the guests in every possible way. But, after the event one thing I got to know that many alumni didn't even got an invite. 
 The database which we had till now was scattered and completely out of order. I pulled out all the Cell's google drive csv/xlsx files containing any sort of alumni data and put into a single folder.
